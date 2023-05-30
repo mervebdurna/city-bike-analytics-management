@@ -4,7 +4,8 @@
 
 ![image](https://github.com/mervebdurna/city-bike-analytics-management/assets/26697128/fea54b87-63f5-4d8f-bf8c-b2f184f06f9e)
 
-# Problem : City officials have a number of questions on the City Bike Project to be able to take data-driven action.
+# Problem :
+ City officials have a number of questions on the City Bike Project to be able to take data-driven action.
  And the goal of this data analytics project is to build a set of data reports to provide their questions answers.
 
 # Data Source: https://citibikenyc.com/system-data
